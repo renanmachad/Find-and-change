@@ -7,13 +7,13 @@ import os
 
 filepath= "VIEWS"
 path = os.listdir(filepath)
-current = "CASSOL_APP"
-new_string= "RUB_INTEGRACAO"
+current = "APP"
+new_string= "INTEGRACAO"
 
-cassol_index="CASSOL_INDEX"
+cassol_index="INDEX"
 new_index="TERCEIROS_INDEX"
 
-cassol_data= "CASSOL_DATA"
+cassol_data= "DATA"
 new_data= "TERCEIROS_DATA"
 
 
